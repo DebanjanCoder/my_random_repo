@@ -35,5 +35,3 @@ if __name__ == '__main__':
     operation.subtract()
     operation.multiply()
     operation.divide()
-
-# comments added to calculator.py
